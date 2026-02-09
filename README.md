@@ -1,0 +1,1 @@
+This repo covers the two most popular search informed search algorithms which our Greedy BFS and A-star search
